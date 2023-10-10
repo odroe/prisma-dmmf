@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@prisma/engines-version": "^4.12.0-67.659ef412370fa3b41cd7bf6e94587c1dfb7f67e7",
-    "@prisma/fetch-engine": "^4.16.2",
+    "@prisma/fetch-engine": "^5.4.2",
     "@prisma/get-platform": "^4.16.2"
   }
 }
